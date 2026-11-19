@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-19",
+ "terms": 3434,
+ "raw_terms": 3515,
+ "fixed": 237,
+ "chunks": 11,
+ "sources": [
+  {
+   "id": "1mAHoQqA1dM2dSlhiEc6RxGsnjWkIjeS0",
+   "name": "빠알리_용어_개념정의_195어.docx",
+   "modifiedTime": "2026-11-18T08:19:57.266Z",
+   "title": "빠알리 용어 개념정의 — 네 출판사 공통 195어",
+   "terms": 195
+  },
+  {
+   "id": "1W8S3aH3T9RcCZiy8dqLIY4995uL-5nB5",
+   "name": "빠알리_용어_개념정의_300어.docx",
+   "modifiedTime": "2026-11-18T21:25:13.249Z",
+   "title": "빠알리 용어 개념정의 — 초기불전연구원에만 실린 교리 용어 300어",
+   "terms": 300
+  },
+  {
+   "id": "1yF0JIdJI4vAaFXE6Fjeks1SHIpueNSGC",
+   "name": "빠알리_용어_개념정의_388어.docx",
+   "modifiedTime": "2026-11-18T08:19:45.416Z",
+   "title": "빠알리 용어 개념정의 — 세 출판사 공통 388어",
+   "terms": 388
+  },
+  {
+   "id": "1nh-KLLG6jQJ1gH6d5sG0XDuQjo4QWHZN",
+   "name": "빠알리_용어_개념정의_583어.docx",
+   "modifiedTime": "2026-11-18T08:20:00.106Z",
+   "title": "빠알리 용어 개념정의 — 공통 583어 (네 출판사 공통 195어 + 세 출판사 공통 388어)",
+   "terms": 583
+  },
+  {
+   "id": "1QlJwxswaxNfCF6fmkVQmUEIva8b8CwBz",
+   "name": "빠알리_용어_개념정의_1121어.docx",
+   "modifiedTime": "2026-11-18T08:20:02.862Z",
+   "title": "빠알리 용어 개념정의 — 두 출판사 공통 1,121어",
+   "terms": 1121
+  },
+  {
+   "id": "1CE32tW5aIdtRl_Fi2X1KJuSGO0ENAzbb",
+   "name": "빠알리_용어_개념정의_1511어.docx",
+   "modifiedTime": "2026-11-18T08:20:16.608Z",
+   "title": "빠알리 용어 개념정의 — 한 출판사에만 실린 1,511어",
+   "terms": 1511
+  },
+  {
+   "id": "1fKZ-wyOqLVS43Vcl47zFDfIhjOR01dAZ",
+   "name": "빠알리_용어_개념정의_1704어.docx",
+   "modifiedTime": "2026-11-18T08:20:39.664Z",
+   "title": "빠알리 용어 개념정의 — 두 곳 이상 공통 1,704어",
+   "terms": 1704
+  },
+  {
+   "id": "16qtmtQaQ_y3u6AdC0cAW5rWlHh2QNhwd",
+   "name": "빠알리_용어_개념정의_3215어.docx",
+   "modifiedTime": "2026-11-18T08:20:25.280Z",
+   "title": "빠알리 용어 개념정의 — 전체 3,215어",
+   "terms": 3215
+  }
+ ]
+}
