@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-19",
- "terms": 3434,
- "raw_terms": 3515,
+ "updated": "2026-11-21",
+ "terms": 4128,
+ "raw_terms": 4215,
  "fixed": 237,
- "chunks": 11,
+ "chunks": 14,
  "sources": [
   {
    "id": "1mAHoQqA1dM2dSlhiEc6RxGsnjWkIjeS0",
@@ -22,21 +22,28 @@
   {
    "id": "1yF0JIdJI4vAaFXE6Fjeks1SHIpueNSGC",
    "name": "빠알리_용어_개념정의_388어.docx",
-   "modifiedTime": "2026-11-18T08:19:45.416Z",
+   "modifiedTime": "2026-11-21T03:49:05.194Z",
    "title": "빠알리 용어 개념정의 — 세 출판사 공통 388어",
    "terms": 388
   },
   {
    "id": "1nh-KLLG6jQJ1gH6d5sG0XDuQjo4QWHZN",
    "name": "빠알리_용어_개념정의_583어.docx",
-   "modifiedTime": "2026-11-18T08:20:00.106Z",
+   "modifiedTime": "2026-11-21T03:48:45.123Z",
    "title": "빠알리 용어 개념정의 — 공통 583어 (네 출판사 공통 195어 + 세 출판사 공통 388어)",
    "terms": 583
   },
   {
+   "id": "1TFeSIXCpbL4XGwhiGzhvvqOIE22io-z3",
+   "name": "빠알리_용어_개념정의_1000어_(1).docx",
+   "modifiedTime": "2026-11-21T03:22:34.510Z",
+   "title": "빠알리 용어 개념정의 1000어 (1) — 초기불전연구원에만 실린 교리 용어",
+   "terms": 1000
+  },
+  {
    "id": "1QlJwxswaxNfCF6fmkVQmUEIva8b8CwBz",
    "name": "빠알리_용어_개념정의_1121어.docx",
-   "modifiedTime": "2026-11-18T08:20:02.862Z",
+   "modifiedTime": "2026-11-21T03:48:56.132Z",
    "title": "빠알리 용어 개념정의 — 두 출판사 공통 1,121어",
    "terms": 1121
   },
@@ -50,16 +57,24 @@
   {
    "id": "1fKZ-wyOqLVS43Vcl47zFDfIhjOR01dAZ",
    "name": "빠알리_용어_개념정의_1704어.docx",
-   "modifiedTime": "2026-11-18T08:20:39.664Z",
+   "modifiedTime": "2026-11-21T03:48:53.066Z",
    "title": "빠알리 용어 개념정의 — 두 곳 이상 공통 1,704어",
    "terms": 1704
   },
   {
    "id": "16qtmtQaQ_y3u6AdC0cAW5rWlHh2QNhwd",
    "name": "빠알리_용어_개념정의_3215어.docx",
-   "modifiedTime": "2026-11-18T08:20:25.280Z",
+   "modifiedTime": "2026-11-21T03:49:14.411Z",
    "title": "빠알리 용어 개념정의 — 전체 3,215어",
    "terms": 3215
+  },
+  {
+   "id": "1HPtyc29fSJegBN-jTpqwj5OGPUfl2tj7",
+   "name": "빠알리_용어_개념정의_4215어.docx",
+   "modifiedTime": "2026-11-21T03:50:17.018Z",
+   "title": "빠알리_용어_개념정의_4215어.docx",
+   "terms": 0,
+   "skipped": "10MB가 넘어 Drive 연결로 내려받을 수 없음"
   }
  ]
 }
