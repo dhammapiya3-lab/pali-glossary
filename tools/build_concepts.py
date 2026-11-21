@@ -408,6 +408,18 @@ ALTG={
 }
 # --- 표기 오류 바로잡기와 합치기 ---
 raw_n=len(entries)
+# 출판사 번역어 교정(사용자가 직접 정한 것만. 출판사 번역어는 원래 출판사 표기 그대로 둔다)
+PUBFIX=[
+ ('시간을 초월 하여 타당하며','시간을 초월하여 타당하며'),   # 2026-11-21 사용자 교정: 고요한소리 akāliko 번역어 띄어쓰기
+]
+def _pubfix(md):
+    out=[]
+    for l in md.split('\n'):
+        if l.startswith('**출판사 번역어**'):
+            for x,y in PUBFIX: l=l.replace(x,y)
+        out.append(l)
+    return '\n'.join(out)
+for e in entries.values(): e['md']=_pubfix(e['md'])
 # 사이트에서 빼는 표제어(원본 표제어 철자 기준). 사용자 결정.
 #  (2026-11-18) jānati·Māyūpamañca는 원문에 실제로 있는 형태(jānati 게송 5회, māyūpamañca 4회)라 FIX에서 빼고 다른 표기(ALTV)로 둠. samadhikā cetovimutti는 sāmayikā·sāmāyikā 둘 다 병기(VRI: sāmayika- 51회, sāmāyika- 33회).
 #  vipallaasā: 고요한소리 번역어(관/위빠싸나)가 vipallāsa(전도)와 맞지 않아 잘못된 표제어로 봄 (2026-11-18)
